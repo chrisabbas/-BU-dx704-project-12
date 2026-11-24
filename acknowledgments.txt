@@ -1,0 +1,7 @@
+GitHub Copilot Chat in Visual Studio Code assisted with interpreting the assignment instructions.
+
+COLLABORATION:
+No other people provided assistance. I used NumPy, pandas, and Matplotlib, which are the libraries used in the assignment materials.
+
+NEW LIBRARY USED:
+No new libraries were introduced in this project. 
